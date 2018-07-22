@@ -4,6 +4,7 @@
 #include <QDebug>
 #include <QPainter>
 #include <QMouseEvent>
+#include <QDebug>
 
 ButtonGroup::ButtonGroup(QWidget *parent) :
     QWidget(parent),
